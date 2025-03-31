@@ -14,7 +14,7 @@ Recognizing what type of hand you have.
 Input Flexibility:
 When entering your card numbers, the B.U.G. system allows you to input the same number twice or even more than five numbers.
 
-#Quick Exit:
+# Quick Exit:
 If you accidentally type a character that's not a number while selecting cards, the system will quickly close the program.
 
 ## How to get started
