@@ -1,6 +1,8 @@
 # Balazstro Game
 A simplifed version of Balatro.
 Balazstro is an old work in progress project.
+After choosing your deck you draw 8 cards from the deck.
+You get to choose max 5 cards and from that you need to earn higher and higher poker hand scores.
 
 
 ## Polished Visuals
