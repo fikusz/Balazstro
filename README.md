@@ -15,7 +15,7 @@ Recognizing what type of hand you have.
 The B.U.G. system lets you enter duplicate card numbers or even more than five numbers.
 
 #### Quick Exit:
-With the B.U.G. system if you accidentally type a character that's not a number while selecting cards, the system will quickly close the program.
+With the B.U.G. system if you try to enter a character that is not a number while selecting cards, the program will immediately close.
 
 ## How to get started
 1. Click "Code" and download the repository as a ZIP file.
