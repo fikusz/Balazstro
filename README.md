@@ -11,8 +11,11 @@ Multiple decks for testing/fun.
 Recognizing what type of hand you have.
 
 ## The new and original System: Big. Upsie. Guys. 
-When typing in what cards you have B.U.G. allows you to type in the same number twice, or more than 5 numbers.
+Input Flexibility:
+When entering your card numbers, the B.U.G. system allows you to input the same number twice or even more than five numbers.
 
+Quick Exit:
+If you accidentally type a character that's not a number while selecting cards, the system will quickly close the program.
 
 ## How to get started
 1. Click "Code" and download the repository as a ZIP file.
