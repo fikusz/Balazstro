@@ -12,10 +12,10 @@ Recognizing what type of hand you have.
 
 ## The new and original System: Big. Upsie. Guys. 
 #### Input Flexibility:
-When entering your card numbers, the B.U.G. system allows you to input the same number twice or even more than five numbers.
+The B.U.G. system lets you enter duplicate card numbers or even more than five numbers.
 
 #### Quick Exit:
-If you accidentally type a character that's not a number while selecting cards, the system will quickly close the program.
+With the B.U.G. system if you accidentally type a character that's not a number while selecting cards, the system will quickly close the program.
 
 ## How to get started
 1. Click "Code" and download the repository as a ZIP file.
