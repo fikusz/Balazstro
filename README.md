@@ -23,3 +23,7 @@ With the B.U.G. system if you try to enter a character that is not a number whil
 3. Run `Balazstro3.py` (or the correct executable/script) to start the game.
 4. Resize the size of the textbox where the text appears until you see the top of the arrow.
 if you did it correctly you will be able to choose your deck.
+
+## Things to look out for:
+The game is configured to handle only the characters specified in the instructions in the terminal.
+The score is not yet implemented, The player will always win.
