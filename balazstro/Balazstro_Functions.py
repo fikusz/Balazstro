@@ -277,7 +277,7 @@ def select_pls(l_check_this):
 
     d_selected_number = [int(char) for char in p_input]
     for i in d_selected_number:
-        temp_list.append(l_check_this[i])
+        temp_list.append(l_check_this[i-1])
     l_check_this = temp_list
     return l_check_this
 
