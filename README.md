@@ -29,4 +29,4 @@ if you did it correctly you will be able to choose your deck.
 ## Things to look out for:
 The game is configured to handle only the characters specified in the instructions in the terminal.
 The score system is not yet implemented, The player will always win.
-###I made the classes when I did not know what their true purpose was.
+### I made the classes when I did not know what their true purpose was.
